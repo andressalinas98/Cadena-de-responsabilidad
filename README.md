@@ -30,7 +30,7 @@ Para este proyecto se utilizo el lenguaje de programación **Python** ya que nos
 
 Para la ejemplificación de cada uno de los patrones de diseño que se encuentra en la ejecución del programa se tomo el codigo ya realizado e implementado en Python por el profesor Alejandro Daza, los cuales se encuentran en su repositorio de GitHub de igual forma se dejara el link de enlace directo a estos:
 
-[1]: (https://github.com/apdaza/patrones-gof-python.git)
+[Codigo Base](https://github.com/apdaza/patrones-gof-python.git)
 
 ## Autores 
 -Diana Valentina Uscategui Tobo 20172020063
